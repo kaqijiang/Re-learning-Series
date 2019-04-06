@@ -14,37 +14,37 @@
 > iOS基础到进阶。温故知新。
 
 | 知识点         | 简介                                                         | 状态 |
-| -------------- | ------------------------------------------------------------ | ---- |
-| Xcode使用      | Xcode基本使用、使用技巧、常用路径                            | -    |
-| 基础           | 内存管理、强弱引用、Assign、retain、copy、strong、声明周期、谓词NAPredicate | -    |
-| 网络           | 网络请求、AFN使用                                            | -    |
-| 多线程         | NSThread、NSOperationQueue、GCD                              | -    |
-| Git            | Git常用方法                                                  | -    |
-| 数据存取       | 文件操作、SQLite、 CoreData、FMDB、realm                     | -    |
-| 推送           | 推送机制、极光推送                                           | -    |
-| 多媒体         | 相机、相册、音视频                                           | -    |
-| 地图           | 百度地图、高德地图、大头针                                   | -    |
-| 第三方工具     | Charles、Navicat Premuim、icecap、                           | -    |
-| 系统服务       | Icond、推送、内购、广告、蓝牙、电话短信、通讯录、邮件        | -    |
-| 硬件           | 加速器、计步器、陀螺仪                                       | -    |
-| 热门技术       | 购物车、支付、二维码、加密、xmpp、mqtt                       | -    |
-| 响应连         | 响应者链和事件处理                                           | -    |
-| 运行时         | runloop、runtime                                             | -    |
-| 源码分析       | AFNetworking、YYKit、SDWebImage、Masonry、MJRefresh、SDAutoLayout、RAC | -    |
-| 设计模式       | 单利、代理、KVO、KVC、Category、Protocal、Blcok、通知、MVC、MVVM | -    |
-| QuartzCore     | 2D绘图、CALayer图层、Core Animation（核心动画）              | -    |
-| 图片渲染&滤镜  | GPUIImage                                                    | -    |
-| 静态库         | 静态库创建                                                   | -    |
-| 加密           | MD5、Base64、RSA非对称、AES对称加密、、                      | -    |
-| 账号、证书相关 | 账号证书详解开发生产                                         | -    |
-| 上架           | app发布流程、常见问题解决方法。                              | -    |
-| 视频           | AAC视频、H264推流、P2                                        | -    |
-| 直播           | RTMP协议、FFmpeg、HLS                                        | -    |
-| OpenGL         |                                                              | -    |
-| Opencv         |                                                              | -    |
-| 算法           | 冒泡排序、快排排序、插入排序、归并排序、二分查找、希尔排序、动态规划、堆排序 | -    |
-| 逆向           |                                                              | -    |
-| 书籍           | 工作日20页，周末40页。保持一周至少180页。                    | -    |
+| :------------- | ------------------------------------------------------------ | :--: |
+| Xcode使用      | Xcode基本使用、使用技巧、常用路径                            |  -   |
+| 基础           | 内存管理、强弱引用、Assign、retain、copy、strong、声明周期、谓词NAPredicate |  -   |
+| 网络           | 网络请求、AFN使用                                            |  -   |
+| 多线程         | NSThread、NSOperationQueue、GCD                              |  -   |
+| Git            | Git常用方法                                                  |  -   |
+| 数据存取       | 文件操作、SQLite、 CoreData、FMDB、realm                     |  -   |
+| 推送           | 推送机制、极光推送                                           |  -   |
+| 多媒体         | 相机、相册、音视频                                           |  -   |
+| 地图           | 百度地图、高德地图、大头针                                   |  -   |
+| 第三方工具     | Charles、Navicat Premuim、icecap、                           |  -   |
+| 系统服务       | Icond、推送、内购、广告、蓝牙、电话短信、通讯录、邮件        |  -   |
+| 硬件           | 加速器、计步器、陀螺仪                                       |  -   |
+| 热门技术       | 购物车、支付、二维码、加密、xmpp、mqtt                       |  -   |
+| 响应连         | 响应者链和事件处理                                           |  -   |
+| 运行时         | runloop、runtime                                             |  -   |
+| 源码分析       | AFNetworking、YYKit、SDWebImage、Masonry、MJRefresh、SDAutoLayout、RAC |  -   |
+| 设计模式       | 单利、代理、KVO、KVC、Category、Protocal、Blcok、通知、MVC、MVVM |  -   |
+| QuartzCore     | 2D绘图、CALayer图层、Core Animation（核心动画）              |  -   |
+| 图片渲染&滤镜  | GPUIImage                                                    |  -   |
+| 静态库         | 静态库创建                                                   |  -   |
+| 加密           | MD5、Base64、RSA非对称、AES对称加密、、                      |  -   |
+| 账号、证书相关 | 账号证书详解开发生产                                         |  -   |
+| 上架           | app发布流程、常见问题解决方法。                              |  -   |
+| 视频           | AAC视频、H264推流、P2                                        |  -   |
+| 直播           | RTMP协议、FFmpeg、HLS                                        |  -   |
+| OpenGL         |                                                              |  -   |
+| Opencv         |                                                              |  -   |
+| 算法           | 冒泡排序、快排排序、插入排序、归并排序、二分查找、希尔排序、动态规划、堆排序 |  -   |
+| 逆向           |                                                              |  -   |
+| 书籍           | 工作日20页，周末40页。保持一周至少180页。                    |  -   |
 
 ### [英语](https://github.com/kaqijiang/Re-learn-EN)
 
