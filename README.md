@@ -9,6 +9,12 @@
 
 ### [iOS系列](https://github.com/kaqijiang/Re-learn-iOS)
 
+<a class="github-button" href="https://github.com/kaqijiang/Re-learn-iOS" data-show-count="true" aria-label="Star kaqijiang/Re-learn-iOS on GitHub">Star</a>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <iframe src="https://ghbtns.com/github-btn.html?user=kaqijiang&repo=Re-learn-iOS&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 <iframe
